@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T05:35:12.185Z",
+  "generated_at": "2026-11-18T05:35:49.335Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -161,6 +161,19 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-11-09T09:48:13.865Z",
       "last_pushed_at": "2026-11-18T05:35:12.182Z"
+    },
+    "problem:1104": {
+      "kind": "problem",
+      "id": "1104",
+      "title": "Sort results with ORDER BY",
+      "difficulty": "easy",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1104",
+      "path": "problems/1104-sort-results-with-order-by",
+      "first_solved_at": "2026-11-18T05:35:47.690Z",
+      "last_pushed_at": "2026-11-18T05:35:47.690Z",
+      "language": "sql",
+      "lines": 4
     }
   }
 }
